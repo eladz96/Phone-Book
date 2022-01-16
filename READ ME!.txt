@@ -1,4 +1,4 @@
-הפורמט של קובץ הקלט צריך להיות בצורה הבאה:
+The file must look like this:
 name'\t'phone_number
 
-הטאב קריטי למניעת שגיאות ריצה.
+the 'tab' is very importent!
